@@ -1,0 +1,17 @@
+Pour ouvrir le projet sous Linux ou Mac :
+Cliquez avec le bouton droit et choisissez l'option "Ouvrir dans un terminal".
+Copiez et collez cette ligne :
+./startLinux.sh
+
+Le projet s'affiche en local, mais dans un navigateur, les identifiants sont :
+Admin
+Paris2023!
+
+
+
+Les identifiants sont en dur uniquement pour faciliter l'accès à la démo pour l'utilisateur.
+Un projet en développement ou en production ne doit pas comporter d'identifiants en dur.
+
+Si cela ne fonctionne pas, vérifiez que vous êtes dans le dossier demoRubyOnRails en tapant :
+pwd. Sinon, vous pouvez aussi aller dans le dossier funLibrary cd funLibrary puis taper rails server et double-cliquer sur la ligne * Listening on http://127.0.0.1:3000
+
